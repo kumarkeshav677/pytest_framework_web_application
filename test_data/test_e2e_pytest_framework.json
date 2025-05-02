@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "userid": "rahulshettyacademy",
+      "Password": "learning",
+      "ProductName": "Blackberry",
+      "Address": "Ind"
+    },
+    {
+      "userid": "rahulshettyacademy",
+      "Password": "learning",
+      "ProductName": "Samsung Note 8",
+      "Address": "Ind"
+    }
+  ]
+}
