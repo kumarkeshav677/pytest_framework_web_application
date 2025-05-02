@@ -3,9 +3,8 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
-
 from pageObjects.checkout_confirmation import CheckoutConfromation
-from utils.browserutils import BrowserUtils
+from utils_common_methods.browserutils import BrowserUtils
 
 
 class ShopPage(BrowserUtils):

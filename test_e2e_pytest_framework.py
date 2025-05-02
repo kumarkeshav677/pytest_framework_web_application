@@ -1,7 +1,7 @@
 import json
-
 import pytest
 from pageObjects.login import LoginPage
+
 test_data_path = "test_data/test_e2e_pytest_framework.json"
 with open(test_data_path) as f:
     test_data = json.load(f)

@@ -1,9 +1,7 @@
 import time
-
 from selenium.webdriver.common.by import By
-
 from pageObjects.ShopPage import ShopPage
-from utils.browserutils import BrowserUtils
+from utils_common_methods.browserutils import BrowserUtils
 
 
 class LoginPage(BrowserUtils):
